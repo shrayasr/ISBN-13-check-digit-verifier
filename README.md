@@ -3,7 +3,7 @@
 A small enough problem to solve with many languages
 
 - [X] Python
-- [ ] Clojure
+- [X] Clojure
 - [ ] F#
 - [ ] Scala
 - [ ] C
