@@ -1,4 +1,4 @@
-# ISBN Check Digit Calculator
+# ISBN Check Digit Verifier
 
 A small enough problem to solve with many languages. 
 
